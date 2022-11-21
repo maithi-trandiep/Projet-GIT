@@ -27,6 +27,8 @@ Ceci est un repertoire de projet d'école combinant deux matières :
 
 Nous utilisons Git comme outil de versionning afin de répondre à un cahier des charges sur une bonne tenu de projet sur Github/Gitlab. En parallel nous développons également un système d'exploitation en Javascript Vanilla. Ce repertoire nous permet d'organiser notre travail de groupe sur ces deux projets.
 
+N'hésitez pas à consulter le [README](Readme.md) pour  des informations plus approfondies !
+
 ## Comment participer ?
 
 ### Soumettre un bug
