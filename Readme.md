@@ -132,13 +132,13 @@ Ce projet est soumit à son [code de conduite](CODE_OF_CONDUCT.md), le respect d
 <p align="right">(<a href="#readme-top">retour en haut de page</a>)</p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/maithi-trandiep/Projet-GIT.svg?style=for-the-badge
 [contributors-url]: https://github.com/maithi-trandiep/Projet-GIT/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/maithi-trandiep/Projet-GIT.svg?style=for-the-badge
 [forks-url]: https://github.com/maithi-trandiep/Projet-GIT/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/maithi-trandiep/Projet-GIT.svg?style=for-the-badge
 [stars-url]: https://github.com/maithi-trandiep/Projet-GIT/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/maithi-trandiep/Projet-GIT.svg?style=for-the-badge
 [issues-url]: https://github.com/maithi-trandiep/Projet-GIT/issues
 [product-screenshot]: readme/screenshotJS.png
 [Javascript-img]: https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge
